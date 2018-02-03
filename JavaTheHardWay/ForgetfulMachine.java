@@ -17,3 +17,8 @@ public class ForgetfulMachine {
     keyboard.next();
   }
 }
+// The second question blows the program up when I answer with anything other
+// than an INT
+
+// The third question blew up when I inputed a string. I am still unclear on how
+// to differentiate between a double and int.
